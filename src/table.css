@@ -1,0 +1,14 @@
+.table{
+    width:100%;
+}
+
+.th, td {
+    border: 1px solid whitesmoke;
+    justify-content: start;
+    width: 200px;
+    height: 50px;
+    align-items: left;
+}
+
+  
+

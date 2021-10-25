@@ -1,0 +1,16 @@
+.pageB{
+    padding-top: 10px;
+    justify-content: start;
+    align-items: left;
+    height: 80px;
+    border-bottom: 1px solid #d7d7d7;
+    width: 800px;
+}
+
+.wallet-row{
+    padding-top: 20px;
+    justify-content: start;
+    align-items: left;
+    height: 40px;
+    width: 1000px;
+}
